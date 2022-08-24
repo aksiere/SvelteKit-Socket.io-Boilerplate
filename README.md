@@ -1,6 +1,12 @@
 # Getting Started
-```pnpm i```
+```
+pnpm i
+```
 
-```node server/```
+```
+node server/
+```
 
-```pnpm dev```
+```
+pnpm dev
+```
